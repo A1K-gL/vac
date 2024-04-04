@@ -1,3 +1,0 @@
-/Users/kirill/Documents/projects/vac/lazy_honza/cmake-build-debug/CMakeFiles/lazy_honza.dir
-/Users/kirill/Documents/projects/vac/lazy_honza/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kirill/Documents/projects/vac/lazy_honza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
